@@ -1,2 +1,2 @@
 # Sample-App
-Simple App for Github Testing
+Simple App for moad 
