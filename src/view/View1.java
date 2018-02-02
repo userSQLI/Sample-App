@@ -10,6 +10,10 @@ public class View1 {
         return a * b;
     }
 
+    private static int subs(int a, int b) {
+        return a - b;
+    }
+
     public static void main(String[] args) {
 
       String message = "Hello world";
@@ -18,6 +22,7 @@ public class View1 {
       int b=6;
       System.out.println("Addition: "add(a,b));
       System.out.println("Multiply: "multiply(a,b));
+      System.out.println("Subs: "subs(a,b));
 
   }
 
