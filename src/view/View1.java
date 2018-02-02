@@ -2,7 +2,7 @@ public class View1 {
 
 	static int hello;
 
-	private static int add(int a, int b) {
+	private static int minus(int a, int b) {
 		return a + b;
 	}
 
@@ -10,7 +10,7 @@ public class View1 {
 
 		String message = "Hello world";
 		System.out.println(message);
-		c = add(a, b);
+		c = minus(a, b);
 		System.out.println(c);
 	}
 
