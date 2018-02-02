@@ -2,7 +2,7 @@ public class View1 {
 
 	static int hello;
 
-	private static int div(int a, int b) {
+	private static int division(int a, int b) {
 		return a / b;
 	}
 
