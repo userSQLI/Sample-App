@@ -2,8 +2,8 @@ public class View1 {
 
 	static int hello;
 
-	private static int add(int a, int b) {
-		return a + b;
+	private static int division(int a, int b) {
+		return a / b;
 	}
 
     private static int multiply(int a, int b) {
